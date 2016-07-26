@@ -156,3 +156,4 @@
 "CVE-2016-1000209","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
 "CVE-2016-1000210","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
 "CVE-2016-1000211","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
+"CVE-2016-1000212","2016-07-26","2016-07-26","","carnil@debian.org","kurt@seifried.org",,1,"","PUBLIC","LightHTTPD HTTP Server sets environmental variable HTTP_PROXY based on user supplied Proxy request header (httpoxy) diff#779c133c16f9af168b004dce7a2a64f16c1cb3a4"
