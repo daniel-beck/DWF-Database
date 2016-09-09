@@ -158,3 +158,9 @@
 "CVE-2016-1000210","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
 "CVE-2016-1000211","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
 "CVE-2016-1000212","2016-07-26","2016-07-26","","carnil@debian.org","kurt@seifried.org",,1,"","PUBLIC","LightHTTPD HTTP Server sets environmental variable HTTP_PROXY based on user supplied Proxy request header (httpoxy) diff#779c133c16f9af168b004dce7a2a64f16c1cb3a4"
+"CVE-2016-1000213","2016-01-22","2016-09-07","2016-08-02","cyoung@tripwire.com","amanion@cert.org","",1,"2016-09-07","PUBLIC","Ruckus Wireless H500 web management interface CSRF"
+"CVE-2016-1000214","2016-01-22","2016-09-07","2016-08-02","cyoung@tripwire.com","amanion@cert.org","",1,"2016-09-07","PUBLIC","Ruckus Wireless H500 web management interface authentication bypass"
+"CVE-2016-1000215","2016-01-22","2016-09-07","2016-08-02","cyoung@tripwire.com","amanion@cert.org","",1,"2016-09-07","PUBLIC","Ruckus Wireless H500 web management interface denial of service"
+"CVE-2016-1000216","2016-01-22","2016-09-07","2016-08-02","cyoung@tripwire.com","amanion@cert.org","",1,"2016-09-07","PUBLIC","Ruckus Wireless H500 web management interface authenticated command injection"
+"CVE-2016-1000217","2016-09-07","2016-09-07","2016-05-01","cert@cert.org","amanion@cert.org","",1,"2016-09-07","PUBLIC","Zotpress plugin for WordPress SQLi in zp_get_account()"
+
