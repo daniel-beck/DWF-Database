@@ -163,4 +163,3 @@
 "CVE-2016-1000215","2016-01-22","2016-09-07","2016-08-02","cyoung@tripwire.com","amanion@cert.org","",1,"2016-09-07","PUBLIC","Ruckus Wireless H500 web management interface denial of service"
 "CVE-2016-1000216","2016-01-22","2016-09-07","2016-08-02","cyoung@tripwire.com","amanion@cert.org","",1,"2016-09-07","PUBLIC","Ruckus Wireless H500 web management interface authenticated command injection"
 "CVE-2016-1000217","2016-09-07","2016-09-07","2016-05-01","cert@cert.org","amanion@cert.org","",1,"2016-09-07","PUBLIC","Zotpress plugin for WordPress SQLi in zp_get_account()"
-
