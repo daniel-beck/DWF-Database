@@ -40,7 +40,7 @@
 "CVE-2016-1000031","2016-04-20","2016-07-19","","bmartin@tenable.com","bmartin@tenable.com","",1,"","PUBLIC","Apache Commons FileUpload DiskFileItem File Manipulation Remote Code Execution (LOBSTER)"
 "CVE-2016-1000032","2016-03-09","2016-07-19","","patrick@puiterwijk.org","patrick@puiterwijk.org","",1,"","PUBLIC","tgcaptcha does not have any prevention against replay attack"
 "CVE-2016-1000033","2016-03-09","2016-07-19","","mcatanzaro@gnome.org","kurt@seifried.org","",1,"","PUBLIC","Gnome Shotwell fails to validate SSL/TLS certificates properly"
-"CVE-2016-1000034","2016-03-17","2016-07-19","","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","PUBLIC","Bezeq firmware for Negear DGN2200 - multiple vulnerabilities"
+"CVE-2016-1000034","2016-03-17","2016-07-19","","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","PUBLIC","Bezeq firmware for NETGEAR DGN2200 - multiple vulnerabilities"
 "CVE-2016-1000035","2016-03-17","2016-07-19","","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","PUBLIC","ASUS driver unsafe operation"
 "CVE-2016-1000036","2016-07-21","2016-07-21","","mscherer@redhat.com","kurt@seifried.org","",1,"","PUBLIC","pnda 0.1.0 and earlier use an HTTP url to download software packages and the signing key used to verify them"
 "CVE-2016-1000037","2016-07-25","2016-07-25","","patrick@puiterwijk.org","kurt@seifried.org","",1,"","PUBLIC","Pagure version 2.3.3 and older is vulnerable to cross-site-scripting in the attachment download endpoint"
@@ -169,3 +169,4 @@
 "CVE-2016-1000221","2016-09-08","2016-09-09","2016-07-07","kseifried@redhat.com","kurt@seifried.org","",1,"","PUBLIC","Logstash prior to version 2.3.4, Elasticsearch Output plugin would log to file HTTP authorization headers which could contain sensitive information. Users who secure communication from Logstash to Elasticsearch via Basic Authorization using Elastic Shield or other systems are advised to upgrade to this version. ESA-2016-02"
 "CVE-2016-1000222","2016-09-08","2016-09-09","2016-02-02","kseifried@redhat.com","kurt@seifried.org","",1,"","PUBLIC","Logstash prior to version 2.1.2, the CSV output can be attacked via engineered input that will create malicious formulas in the CSV data. Users that currently use Logstash CSV output plugin or may want to use it in the future should upgrade to 2.2.0 or 2.1.2. ESA-2016-01"
 
+,
