@@ -168,5 +168,3 @@
 "CVE-2016-1000220","2016-09-08","2016-09-09","2016-08-03","kseifried@redhat.com","kurt@seifried.org","",1,"","PUBLIC","Versions of Kibana before 4.5.4 and 4.1.11 are vulnerable to an XSS attack that would allow an attacker to execute arbitrary JavaScript in users' browsers. Users should upgrade to 4.5.4 or 4.1.11. ESA-2016-03"
 "CVE-2016-1000221","2016-09-08","2016-09-09","2016-07-07","kseifried@redhat.com","kurt@seifried.org","",1,"","PUBLIC","Logstash prior to version 2.3.4, Elasticsearch Output plugin would log to file HTTP authorization headers which could contain sensitive information. Users who secure communication from Logstash to Elasticsearch via Basic Authorization using Elastic Shield or other systems are advised to upgrade to this version. ESA-2016-02"
 "CVE-2016-1000222","2016-09-08","2016-09-09","2016-02-02","kseifried@redhat.com","kurt@seifried.org","",1,"","PUBLIC","Logstash prior to version 2.1.2, the CSV output can be attacked via engineered input that will create malicious formulas in the CSV data. Users that currently use Logstash CSV output plugin or may want to use it in the future should upgrade to 2.2.0 or 2.1.2. ESA-2016-01"
-
-,
