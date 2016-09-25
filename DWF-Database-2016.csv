@@ -188,3 +188,5 @@
 "CVE-2016-1000240","2016-09-19","2016-09-19","2016-08-26","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS c3 0.4.10 and earlier are vulnerable to XSS via tooltips advisory#138"
 "CVE-2016-1000241","2016-09-19","2016-09-19","2016-08-26","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS pivottable 1.4.0 and later prior to 2.0.0 are vulnerable to XSS advisory#139"
 "CVE-2016-1000242","2016-09-19","2016-09-19","2016-08-26","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS mqtt 0.3.13 and earlier are vulnerable to Denial of Service advisory#140"
+"CVE-2016-1000243","2016-09-24","2016-09-24","2016-09-19","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","Metasploit Web UI's config.action_dispatch.cookies_serializer is set to :hybrid"
+"CVE-2016-1000244","2016-09-24","2016-09-24","2016-09-19","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","Metasploit Weekly Release Static secret_key_base pre-auth RCE"
