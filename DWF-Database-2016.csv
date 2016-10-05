@@ -190,3 +190,4 @@
 "CVE-2016-1000242","2016-09-19","2016-09-19","2016-08-26","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS mqtt 0.3.13 and earlier are vulnerable to Denial of Service advisory#140"
 "CVE-2016-1000243","2016-09-24","2016-09-24","2016-09-19","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","Metasploit Web UI's config.action_dispatch.cookies_serializer is set to :hybrid"
 "CVE-2016-1000244","2016-09-24","2016-09-24","2016-09-19","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","Metasploit Weekly Release Static secret_key_base pre-auth RCE"
+"CVE-2016-1000245","2016-10-04","2016-10-04","","ljames@flashpoint-intel.com","kurt@seifried.org",,1,"","RESERVED",""
