@@ -48,7 +48,7 @@ A list of one or more CVE's that have replaced this entry and what the relations
 * SPLIT_FROM
 * MERGED_TO
 * MERGED_FROM
-* REJECT
+* REJECTED
 
 This field is only used if the CVE is split/merged/found to be a duplicate or rejected.
 
