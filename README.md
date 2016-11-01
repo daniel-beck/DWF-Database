@@ -78,7 +78,7 @@ The state of this CVE, valid states include:
 
 This is a short title for the issue, e.g. "Product Name v1.2.3 buffer overflow flaw in foo()".
 
-This field is optional but strongly reccomended as part of the CNA feedback process. 
+This field is optional but strongly recommended as part of the CNA feedback process. 
 
 ## A note on the DWF Project data and the License of the data
 
