@@ -94,7 +94,7 @@
 "CVE-2016-1000153","2016-07-20","2016-10-07","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","Reflected XSS in wordpress plugin tidio-gallery v1.1"
 "CVE-2016-1000154","2016-07-20","2016-10-07","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","Reflected XSS in wordpress plugin whizz v1.0.7"
 "CVE-2016-1000155","2016-07-20","2016-10-07","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","Reflected XSS in wordpress plugin wpsolr-search-engine v7.6"
-"CVE-2016-1000156","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
+"CVE-2016-1000156","2016-07-20","2016-07-20","2016-11-03","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","Wordpress Plugin Mailcwp v1.100 Remote File Upload Vulnerability"
 "CVE-2016-1000157","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
 "CVE-2016-1000158","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
 "CVE-2016-1000159","2016-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"","RESERVED",""
