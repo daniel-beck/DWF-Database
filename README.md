@@ -1,3 +1,7 @@
+# IMPORTANT NOTE
+
+There is a good chance this database (and indeed repo) will be phased out in favor of the JSON database. If there is enough demand for it there may be a CSV representation of all the data, but if there isn't enough demand then we will simply drop it in 2017. So speak up if you want/need this. 
+
 # DWF-Database
 This repository contains DWF assignments, one CSV file per year (it may be sharded in future if we have enough CVE assignments every year), one row per assignment. 
 
