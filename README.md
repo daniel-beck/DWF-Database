@@ -1,3 +1,7 @@
+# IMPORTANT NOTE
+
+There is a good chance this database (and indeed repo) will be phased out in favor of the JSON database. If there is enough demand for it there may be a CSV representation of all the data, but if there isn't enough demand then we will simply drop it in 2017. So speak up if you want/need this. 
+
 # DWF-Database
 This repository contains DWF assignments, one CSV file per year (it may be sharded in future if we have enough CVE assignments every year), one row per assignment. 
 
@@ -48,7 +52,7 @@ A list of one or more CVE's that have replaced this entry and what the relations
 * SPLIT_FROM
 * MERGED_TO
 * MERGED_FROM
-* REJECT
+* REJECTED
 
 This field is only used if the CVE is split/merged/found to be a duplicate or rejected.
 
@@ -78,10 +82,10 @@ The state of this CVE, valid states include:
 
 This is a short title for the issue, e.g. "Product Name v1.2.3 buffer overflow flaw in foo()".
 
-This field is optional but strongly reccomended as part of the CNA feedback process. 
+This field is optional but strongly recommended as part of the CNA feedback process. 
 
-## A note on the DWF Project data and the Apache License
+## A note on the DWF Project data and the License of the data
 
-It is the intent of the DWF Project that the data contained within the DWF-Database and the DWF-Database-Artifacts repositories be widely used (in licensing terms "redistributed") by vendors, security practitioners and any interested party. However we would ask that you abide by the terms of the Apache License which primarily require a copy of the license to be provided (so e.g. "Our database may contain content redistributed from the DWF Project under the Apache License, click here for a copy") and any altered data (e.g. a "Description" of a vulnerability) to be labled as altered (e.g. "This description has been altered from the original provided by the DWF"). 
+It is the intent of the DWF Project (and indeed the CVE community in general) that the data contained within the DWF-Database and the DWF-Database-Artifacts repositories be widely used (in licensing terms "redistributed") by vendors, security practitioners and any interested party. As such the data is licensed under the MITRE CVE Terms of Use. People submitting data  to the Database must accept the https://github.com/distributedweaknessfiling/DWF-Legal-Acceptance/tree/master/Terms-Of-Use before we can use it, otherwise we have to recreate the information from original research in order to avoid copyright/licensing issues.
 
 
